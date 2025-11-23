@@ -62,7 +62,7 @@ return (
 <div className="w-full max-w-2xl bg-white shadow-xl rounded-2xl p-6 grid grid-rows-[auto_1fr_auto]" style={{height: '80vh'}}>
 <header className="flex items-center justify-between mb-4">
 <h1 className="text-xl font-semibold">Chatbot For you</h1>
-<div className="text-sm text-gray-500">Aayush for you</div>
+<div className="text-sm text-gray-500">Ask your queries to get answer</div>
 </header>
 
 
